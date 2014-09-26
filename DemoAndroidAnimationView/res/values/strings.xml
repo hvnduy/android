@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="parsed_data">http://android.vn\nHướng dẫn bởi thanhlong90.it</string>
+    <string name="app_name">DemoAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="alpha">Alpha</string>
+    <string name="translate">Translate</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="set">Set</string>
+    <string name="use_animation_resources">Sử dụng code từ nguồn</string>
+    <string name="title_activity_list_view_anim">ListViewAnimActivity</string>
+    <string name="title_activity_animation">AnimationActivity</string>
+    <string name="title_activity_main_animation">MainAnimationActivity</string>
+    <string name="button2">Back</string>
+    <string name="button1">Preview</string>
+    <string name="description">description</string>
+
+</resources>
